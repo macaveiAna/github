@@ -19,14 +19,14 @@
 <h3 align="center">
   <a href="https://github.com/macaveiAna">
     <img
-      src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/coding.gif"
+      src="img/coding.gif"
       width="22px"
     />
   </a>
   Tech Stack
   <a href="https://github.com/macaveiAna">
     <img
-      src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/coding.gif"
+      src="img/coding.gif"
       width="22px"
     />
   </a>
@@ -193,27 +193,15 @@
 ---
 
 <h3 align="center">
-  <a href="https://github.com/macaveiAna">
-    <img
-      src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/akita_firefox.gif"
-      width="25px"
-    />
-  </a>
   Portfolio Templates
-  <a href="https://github.com/macaveiAna">
-    <img
-      src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/akita_firefox.gif"
-      width="25px"
-    />
-  </a>
 </h3>
 
 <div align="center">
-  <a href="https://github.com/macaveiAna/Portfolio-Dimension">
+  <a href="https://github.com/macaveiAna/Next.js-Portfolio">
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-stats-macaveiAna.vercel.app/api/pin?username=macaveiAna&repo=Portfolio-Dimension&theme=react"
+      src="https://github-readme-stats.vercel.app/api/pin?username=macaveiAna&repo=Next.js-Portfolio=react"
       alt="Github-Repo-Card"
       width="380"
     />
@@ -228,24 +216,8 @@
     />
   </a>
 
-  <a href="https://github.com/macaveiAna/Portfolio-Terminal">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-macaveiAna.vercel.app/api/pin?username=macaveiAna&repo=Portfolio-Terminal&theme=react"
-      alt="Github-Repo-Card"
-      width="380"
-    />
-  </a>
-  <a href="https://github.com/macaveiAna/Portfolio-Card">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-macaveiAna.vercel.app/api/pin?username=macaveiAna&repo=Portfolio-Card&theme=react"
-      alt="Github-Repo-Card"
-      width="380"
-    />
-  </a>
+
+
 
 ---
 
