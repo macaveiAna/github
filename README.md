@@ -4,7 +4,7 @@
     <a href="https://github.com/macaveiAna">
       <img
         width="25px"
-        src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/Hi.gif"
+        src="img/Hi.gif"
       />
     </a>
   </h3>
