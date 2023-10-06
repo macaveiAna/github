@@ -252,7 +252,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-streaks-stats-git-main.vercel.app/?user=macaveiAna&theme=react&count_private=true&include_all_commits=true"
+      src="https://github-readme-streaks-stats-git-main.vercel.app/?username=macaveiAna&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
     />
