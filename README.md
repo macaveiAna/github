@@ -215,7 +215,7 @@
       alt="Github-Repo-Card"
       width="380"
     />
-  </a>
+  </a> LAST LEFT OFF 
 --->
 
 
@@ -225,14 +225,14 @@
   <h3>
     <a href="https://github.com/macaveiAna">
       <img
-        src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/stats.gif"
+        src="img/stats.gif"
         width="25px"
       />
     </a>
     Github Stats
     <a href="https://github.com/macaveiAna">
       <img
-        src="https://raw.githubusercontent.com/macaveiAna/Picgo-Github/main/img/stats.gif"
+        src="img/stats.gif"
         width="25px"
       />
     </a>
