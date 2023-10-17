@@ -201,7 +201,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macaveiAna&repo=github-readme-stats)](https://github.com/macaveiAna/github-readme-stats)"
+      src="https://github.com/macaveiAna/github-readme-stats/api/pin?username=macaveiAna&repo=React-Portfolio&theme=react"
       alt="Github-Repo-Card"
       width="380"
     />
