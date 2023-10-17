@@ -197,11 +197,11 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/macaveiAna/Next.js-Portfolio">
+  <a href="https://github.com/macaveiAna/React-Portfolio">
     <img
       decoding="async"
       loading="lazy"
-      src="https://github.com/macaveiAna/React-Portfolio"
+      src="https://github-readme-stats-macaveiana.vercel.app/api/pin?username=macaveiAna&repo=React-Portfolio&theme=react"
       alt="Github-Repo-Card"
       width="380"
     />
