@@ -201,7 +201,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://react-portfolio-egrj.vercel.app/"
+      src="https://github.com/macaveiAna/React-Portfolio"
       alt="Github-Repo-Card"
       width="380"
     />
